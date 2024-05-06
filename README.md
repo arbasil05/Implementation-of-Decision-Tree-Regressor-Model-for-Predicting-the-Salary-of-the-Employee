@@ -19,6 +19,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Program:
 ```
+Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+Developed by: Abdur Rahman Basil A H
+RegisterNumber:  212223040002
+```
+```
 import pandas as pd
 data = pd.read_csv("D:/introduction to ML/jupyter notebooks/mama/Salary.csv")
 data.head()
@@ -40,13 +45,6 @@ r2
 dt.predict([[5,6]])
 ```
 
-```
-/*
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: 
-RegisterNumber:  
-*/
-```
 ## Output:
 ### Data.head():
 ![image](https://github.com/arbasil05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/144218037/6919eca6-d510-49bb-9881-5fe5d3d504b5)
